@@ -1,0 +1,11 @@
+Create a x, using the latest technologies of later specified language, following industry standards on everything.
+
+Always:
+
+1. Ask for:
+A) Details, if not provided earlier.
+B) What is or will be managed by user.
+
+2. Actively maintain CLAUDE.md and README.md.
+
+3. Ensure work is being backed up to a remote Git repository; if there is no such place, ask for or create one.
