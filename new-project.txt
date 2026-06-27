@@ -12,3 +12,5 @@ C) Specific language(s)/technologies to use.
 3. Ensure work is being backed up to a remote Git repository; if there is no such place, ask for or create one.
 
 4. Make sure the project is as minimalist as possible (in terms of lines of code, files and dependencies), but also try to get the best performance possible.
+
+5. After all parts of the project have been entirely made, confirmed and pushed, offer to explain all of the scripts in that project.
