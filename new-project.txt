@@ -14,3 +14,7 @@ C) Specific language(s)/technologies to use.
 4. Make sure the project is as minimalist as possible (in terms of lines of code, files and dependencies), but also try to get the best performance possible.
 
 5. After all parts of the project have been entirely made, confirmed and pushed, offer to explain script(s) in that project.
+
+6. While writing the project, advance in the smallest steps possible, explaining and asking to do each one separately.
+
+7. After writing or modifying a script, make sure there is a detailed, comprehensive and up-to-date ELI 5/11/14 (ask user which particularly) for it by writing or modifying an existing .md file in a "docs" folder .
