@@ -1,0 +1,5 @@
+Clean up in folder/project/repo following docs (if any) on all conventions.
+If git is present, commit changes.
+
+If any uncommitted scripts or files are unfinished, ask to finish writing them.
+If refused, ask what should be done with those unfinished scripts.
