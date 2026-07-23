@@ -1,0 +1,4 @@
+Read all docs and uncommited changes (if any), then finish doing these changes,
+following docs (if any) on all conventions, and commit them if user (me) agrees to do so,
+then ask if anything else should be done.
+Afterwards update CLAUDE.md, commit and push.
