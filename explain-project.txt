@@ -1,0 +1,1 @@
+Read all files and explain how this project works line-by-line to a X y.o. (ask about age) without missing out on ANY details.
